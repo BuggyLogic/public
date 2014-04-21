@@ -1,1 +1,1 @@
-This is my first Git repository. Creted for practice purposes.
+This is my first Git repository. Created for practice purposes.
